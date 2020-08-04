@@ -1,0 +1,47 @@
+
+.ButtonKey {
+    width: 64px;
+    height: 50px;
+	padding: 0;
+    font-size: 1.2em;
+	text-transform: none;
+    border-radius: 0;
+    background-color: #004d40;
+    box-shadow: none;
+}
+
+.ButtonFunc {
+    background-color: #00594a;
+}
+
+.ButtonOperators {
+    background-color: #006c5a;
+}
+
+.ButtonZero {
+    width: 128px;
+}
+
+.CalculatorKeys {
+    height: 400px;
+    display: flex;
+}
+
+.InputKeys {
+    width: 240px;
+}
+.InputKeypad {
+    display: flex;
+}
+
+.Func {
+    display: flex;
+}
+.Operators {
+
+}
+.Digits {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap-reverse;
+}

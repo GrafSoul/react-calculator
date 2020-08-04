@@ -1,0 +1,9 @@
+.CalculatorDisplay {
+    padding: 12px 20px 6px;
+    font-size: 2.9em;
+    text-align: right;
+    color: #e4e4e4;
+    border-bottom: 1px solid #006453;
+    background-color: #004338;
+    flex: 1;
+}

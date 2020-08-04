@@ -1,0 +1,26 @@
+// Calculator
+export const CALC_CLEAR_ALL = 'CALC_CLEAR_ALL';
+export const CALC_CLEAR_DISPLAY = 'CALC_CLEAR_DISPLAY';
+export const CALC_CLEAR_LAST_CHAR = 'CALC_CLEAR_LAST_CHAR';
+export const CALC_TOGGLE_SIGN = 'CALC_TOGGLE_SIGN';
+export const CALC_INPUT_PERCENT = 'CALC_INPUT_PERCENT';
+export const CALC_INPUT_SQR = 'CALC_INPUT_SQR';
+export const CALC_INPUT_SQRT = 'CALC_INPUT_SQRT';
+export const CALC_INPUT_SIN = 'CALC_INPUT_SIN';
+export const CALC_INPUT_COS = 'CALC_INPUT_COS';
+export const CALC_INPUT_TAN = 'CALC_INPUT_TAN';
+export const CALC_INPUT_DOT = 'CALC_INPUT_DOT';
+export const CALC_INPUT_DIGIT = 'CALC_INPUT_DIGIT';
+export const CALC_PERFORM_OPERATION = 'CALC_PERFORM_OPERATION';
+
+
+
+
+
+
+
+
+
+
+
+

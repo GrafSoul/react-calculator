@@ -1,0 +1,26 @@
+.CalculatorContent {
+	width: 600px;
+	margin: 0 auto;
+	padding: 0 20px;
+	text-align: center;
+}
+
+.CalculatorWrapper {
+    width: 322px;
+    height: 335px;
+    position: relative;
+    margin: auto;
+}
+
+.Calculator {
+    margin: 50px auto;
+    box-shadow: 2px 2px 15px rgba(0,0,0, .3);
+    border: 1px solid #e4e4e4;
+    background-color: #263238;
+    border-radius: 12px;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
