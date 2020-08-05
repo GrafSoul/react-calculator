@@ -60,4 +60,4 @@ You can use the keyboard to type numbers and signs.
 
 © 2020 | Simple Calculator | [MIT licensed].
 
-[mit licensed]: https://raw.githubusercontent.com/GrafSoul/react-calculator/master/LICENSE
+[mit licensed]: https://github.com/GrafSoul/react-calculator/blob/master/LICENSE
